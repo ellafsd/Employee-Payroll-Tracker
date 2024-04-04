@@ -1,7 +1,7 @@
 // Get a reference to the #add-employees-btn element
 const addEmployeesBtn = document.querySelector('#add-employees-btn');
 
-// Collect employee data
+//Collect employee data
 //This function uses a while loop to repeatedly ask the user for employee information
 //until the user decides to stop. 
 //And it checks for empty inputs from the user. If user leave name or surname or salary empty,
