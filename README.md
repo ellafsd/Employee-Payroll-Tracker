@@ -1,6 +1,4 @@
-# Employee-Payroll-Tracker
-
-Application to view and manage employee payroll data 👷🏼
-
+# Employee Payroll Tracker Starter Code
+ 
  GitHub: https://github.com/ellafsd/Employee-Payroll-Tracker
  Live: https://ellafsd.github.io/Employee-Payroll-Tracker/
